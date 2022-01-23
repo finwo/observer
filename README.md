@@ -41,7 +41,7 @@ obs.subject = 'universe'; // Shows update
 
 ## License
 
-Copyright © 2021 App-vise B.V.
+Copyright © 2022 finwo
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the “Software”), to deal in
